@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alan Abdul Kalaam
+- 👋 Hi, I’m **Alan Abdul Kalaam**
 - 👀 I’m interested in Web development and related fields 
 - 🌱 I’m currently learning full-stack web development
 
