@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm Alan Abdul Kalaam.<br>🔥 A passionate Front-end Developer 👨‍💻<br>
+## Hi 👋, I'm Alan Abdul Kalaam.<br>🔥 A passionate Front-end Developer 👨‍💻<br>
 
 
 ## 🌐 Socials:
