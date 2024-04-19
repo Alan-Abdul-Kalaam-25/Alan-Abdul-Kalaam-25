@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend related technologies**
 
-- 📫 How to reach me **alanabdulkalaam25@gmail.com**
+- 📫 How to reach me **alanabdulkalaam@gmail.com**
 
 - ⚡ Fun fact **I am an introvert?**
 
