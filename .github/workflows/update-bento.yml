@@ -1,0 +1,20 @@
+name: Daily OP-Bento image Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Bun & run
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Update Bento
+        run: |
+          bun getNewBento.ts
