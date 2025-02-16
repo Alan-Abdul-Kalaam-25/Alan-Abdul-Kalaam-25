@@ -6,7 +6,7 @@
 
 <br/>
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAlan-Abdul-Kalaam-2581a23.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAlan-Abdul-Kalaam-257a66f.png?alt=media)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alan-Abdul-Kalaam-25/Alan-Abdul-Kalaam-25/output/github-snake-dark.svg" />
