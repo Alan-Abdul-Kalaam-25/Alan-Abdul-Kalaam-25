@@ -6,6 +6,13 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
+## 🚀 About Me
+
+Hey, There!, I'm **Alan Abdul Kalaam** 👨‍💻
+
+I'm an Indian 2nd year undergrad student at <a herf="https://msijanakpuri.com/">MSI</a> persuring BCA Hons. I'm an on path Full-Stack Web Developer, Native Android Developer and Cloud & DevOps enthusiast. I've keen skills in Core Web (HTML, CSS & JS), MERN Stack, NEXT.Js, Git & Github, Docker as well as AWS.
+
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2575fc"  />
 </div>
