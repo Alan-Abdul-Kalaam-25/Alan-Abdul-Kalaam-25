@@ -92,7 +92,13 @@ I'm a 2nd year undergrad student at <a herf="https://msijanakpuri.com/" target="
 
 ## 📊 Stats 
 
+<div align="center">
+  <img src="https://alan-github-readme-stats.vercel.app/api?username=Alan-Abdul-Kalaam-25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://alan-github-readme-stats.vercel.app/api/top-langs?username=Alan-Abdul-Kalaam-25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-Abdul-Kalaam-25&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
