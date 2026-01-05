@@ -18,10 +18,6 @@ I'm a 2nd‑year undergrad at <a href="https://msijanakpuri.com/" target="_blank
 
 </div>
 
-<blockquote>
-  I love turning ideas into clean, reliable code and shipping things that delight users.
-</blockquote>
-
 ## ⚡ Tech Stack
 
 <div align="center">
